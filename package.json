@@ -1,0 +1,12 @@
+{
+  "name": "huduglue",
+  "version": "1.0.0",
+  "description": "Django-based IT Documentation and Asset Management System",
+  "scripts": {
+    "build": "echo 'This is a Django application. Use Python/pip for dependencies.' && exit 0",
+    "start": "echo 'This is a Django application. Use: python manage.py runserver' && exit 0"
+  },
+  "keywords": ["django", "python", "it-documentation"],
+  "author": "",
+  "license": "MIT"
+}
